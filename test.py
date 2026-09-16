@@ -1,2 +1,2 @@
-print("Hello, World!")
+print("labdien pasaule")
 #comment: es maku programēt

@@ -1,2 +1,2 @@
 print("labdien pasaule")
-#comment: es maku programēt
+#comment: es nemaku programēt

@@ -1,2 +1,2 @@
 print("Hello, World!")
-#comment
+#comment: es maku programēt

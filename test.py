@@ -1,1 +1,2 @@
-print("smth")
+print("Hello, World!")
+#comment

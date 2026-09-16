@@ -1,1 +1,1 @@
-print("ir tik traki")
+print("b")

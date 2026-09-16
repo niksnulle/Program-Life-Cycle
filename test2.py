@@ -1,1 +1,1 @@
-print("nav tik traki")
+print("ir tik traki")

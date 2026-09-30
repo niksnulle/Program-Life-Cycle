@@ -24,6 +24,7 @@ pļaujas vezumos kāpsim,
 
 Rudens mēnesī –
 kaut kas,
+nezinu,
 
 Veļu mēnesī –
 veļus godāsim,

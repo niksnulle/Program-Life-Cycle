@@ -23,7 +23,7 @@ Labības mēnesī –
 pļaujas vezumos kāpsim,
 
 Rudens mēnesī –
-pēc riekstiem lodāsim,
+nezinu,
 
 Veļu mēnesī –
 veļus godāsim,

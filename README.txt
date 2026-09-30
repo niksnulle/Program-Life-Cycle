@@ -11,7 +11,7 @@ Sērsnu mēnesī –
 pavasari gaidīsim,
 
 Sulu mēnesī –
-a,
+Šeit ir jabut kaut kam labam,
 
 Ziedu mēnesī –
 Jāņiem vaiņagus pīsim,

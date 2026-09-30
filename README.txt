@@ -11,7 +11,7 @@ Sērsnu mēnesī –
 pavasari gaidīsim,
 
 Sulu mēnesī –
-b,
+lēļojot ganos dzīsim,
 
 Ziedu mēnesī –
 Jāņiem vaiņagus pīsim,
@@ -23,7 +23,7 @@ Labības mēnesī –
 pļaujas vezumos kāpsim,
 
 Rudens mēnesī –
-pēc riekstiem lodāsim,
+kaut kas,
 
 Veļu mēnesī –
 veļus godāsim,

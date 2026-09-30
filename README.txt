@@ -36,5 +36,3 @@ ziemas saulgriežus sveiksim,
 
 Tad atkal jaungadu saņemt skriesim
 Un cauru gadu darbiņos iesim.
-
-Rainis
